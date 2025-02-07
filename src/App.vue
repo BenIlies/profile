@@ -3,5 +3,5 @@ import Blog from "./components/Blog.vue";
 </script>
 
 <template>
-  <Blog msg="Vite + Vue" />
+  <Blog msg="Personal Website" />
 </template>
