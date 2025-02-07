@@ -10,7 +10,7 @@ export default {
   data: () => ({ blockMap: null }),
   async created() {
     // get Notion blocks from the API via a Notion pageId
-    this.blockMap = await getPageBlocks("19375c89bc778031b015dc2ef9d2aa40");
+    this.blockMap = await getPageBlocks("19375c89bc7780f4bc3ce68b2653f414");
   },
 };
 </script>
